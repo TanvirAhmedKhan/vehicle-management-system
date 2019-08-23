@@ -1,0 +1,14 @@
+C:\Users\tanvirk\source\repos\VehicleManagementSystem\VehicleManagementSystem\bin\Debug\netcoreapp2.1\VehicleManagementSystem.deps.json
+C:\Users\tanvirk\source\repos\VehicleManagementSystem\VehicleManagementSystem\bin\Debug\netcoreapp2.1\VehicleManagementSystem.runtimeconfig.json
+C:\Users\tanvirk\source\repos\VehicleManagementSystem\VehicleManagementSystem\bin\Debug\netcoreapp2.1\VehicleManagementSystem.runtimeconfig.dev.json
+C:\Users\tanvirk\source\repos\VehicleManagementSystem\VehicleManagementSystem\bin\Debug\netcoreapp2.1\VehicleManagementSystem.dll
+C:\Users\tanvirk\source\repos\VehicleManagementSystem\VehicleManagementSystem\bin\Debug\netcoreapp2.1\VehicleManagementSystem.pdb
+C:\Users\tanvirk\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\netcoreapp2.1\VehicleManagementSystem.csprojAssemblyReference.cache
+C:\Users\tanvirk\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\netcoreapp2.1\VehicleManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\tanvirk\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\netcoreapp2.1\VehicleManagementSystem.RazorAssemblyInfo.cache
+C:\Users\tanvirk\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\netcoreapp2.1\VehicleManagementSystem.RazorAssemblyInfo.cs
+C:\Users\tanvirk\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\netcoreapp2.1\VehicleManagementSystem.AssemblyInfoInputs.cache
+C:\Users\tanvirk\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\netcoreapp2.1\VehicleManagementSystem.AssemblyInfo.cs
+C:\Users\tanvirk\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\netcoreapp2.1\VehicleManagementSystem.RazorTargetAssemblyInfo.cache
+C:\Users\tanvirk\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\netcoreapp2.1\VehicleManagementSystem.dll
+C:\Users\tanvirk\source\repos\VehicleManagementSystem\VehicleManagementSystem\obj\Debug\netcoreapp2.1\VehicleManagementSystem.pdb
